@@ -55,6 +55,17 @@
           42.2080568
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Corbera"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.81035,
+          42.1244083
+        ]
+      }
     }
   ]
 }
