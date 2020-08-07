@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Grau de la Mola"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.827025,
+          42.1843917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Grau dels Boigs"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8462639,
+          42.1883957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "La Foradada"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8289618,
+          42.215733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Grau de Granoteres"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.828972,
+          42.215722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Grau de Sant Climents"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8499538,
+          42.2080568
+        ]
+      }
+    }
+  ]
+}
